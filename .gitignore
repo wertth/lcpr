@@ -1,5 +1,0 @@
-./node_modules/*
-./leetcode/*
-./.vscode/*
-./lcpr_data/*
-./package-lock.json
